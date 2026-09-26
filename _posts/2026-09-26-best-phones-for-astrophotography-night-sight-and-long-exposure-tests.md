@@ -67,7 +67,7 @@ When comparing specific models, look for reviews that post **uncropped night-sky
 
 ## Real test footage
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/BjrEIkItPQ4" title="How to Photograph the Milky Way on your iPhone (Mobile Astrophotography) #mobileastrophotography" frameborder="0" allowfullscreen></iframe></div>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/2yh_eAL4hdM" title="Photograph the Milky Way with iPhone 17 Pro Max: Astrophotography Tutorial & Samsung Comparison" frameborder="0" allowfullscreen></iframe></div>
 
 ## Final word
 
