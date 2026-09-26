@@ -1,0 +1,12 @@
+title: Mohi Moha
+description: Coder and blogger. Practical guides on phones, web and tech.
+theme: minima
+url: "https://mohimoha-dev.github.io"
+author: Mohi Moha
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+minima:
+  social_links:
+    github: mohimoha-dev
